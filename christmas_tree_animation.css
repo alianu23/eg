@@ -25,11 +25,13 @@ div {
   justify-content: center;
 }
 
-h1 {
+p {
   font-family: 'Bilbo Swash Caps', cursive;
-  font-size: 100px;
-  font-weight: bolder;
-  color: rgb(255, 215, 0);
+  font-size: 16px;
+  font-weight: 700;
+  text-align: center;
+  margin-inline: 10px;
+  color: rgb(255, 255, 204);
   opacity: 0;
   animation: message 1s ease-in-out 6s forwards;
 }
